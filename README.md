@@ -1,6 +1,6 @@
 # Automate Your First CI/CD Pipeline with GitHub Actions: From Code to Deployment
 
-![Banner](./images/devops-banner.png)
+
 
 ## Workshop Overview
 **Title:** Automate Your First CI/CD Pipeline with GitHub Actions: From Code to Deployment  
